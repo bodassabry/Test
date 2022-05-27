@@ -59,6 +59,7 @@ void loop() {
     else if(dright>range){
       moveRight();
       delay(del);
+      //noice!!
     }
   }
 
